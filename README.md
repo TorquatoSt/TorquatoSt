@@ -2,7 +2,7 @@
 
  <div>
   <a href="https://github.com/TorquatoSt"> 
-  <img align="center" height="200em" src="https://avatars.githubusercontent.com/u/91499584?v=4"/>
+  <img align="center" height="200em" src="C:\Users\Administrador\OneDrive\QuartoSemestre\Screenshot_2022-04-08-09-14-47-506_com.instagram.android.jpg"/>
 
 
 </div>
